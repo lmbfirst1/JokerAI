@@ -1,0 +1,12 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+/.vscode
+/.ipynb_checkpoints
+__pycache__
+ModelBuilder.ipynb
+joker_simulations.csv
+.pytest_cache
+.vscode
+notes.txt
